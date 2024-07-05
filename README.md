@@ -40,5 +40,5 @@
   <img align="center" src="https://img.shields.io/badge/-andrew-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/andrewithw" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-andrew-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-andrewithw-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
