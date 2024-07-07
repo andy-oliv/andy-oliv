@@ -1,6 +1,6 @@
 <h1 align="left">👋 Oi! Eu sou o Andrew!</h1>
 
-<img align="right" width="400px" src="./picture.png">
+<img align="right" width="500px" src="./profilePic.png">
 
 - :earth_americas: Sou professor particular de inglês há quase 10 anos
 
