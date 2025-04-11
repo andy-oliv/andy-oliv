@@ -1,50 +1,47 @@
-<h1 align="left">👋 Oi! Eu sou o Andrew!</h1>
+# 👋 Hey, eu sou o Andrew!
 
-<img align="right" width="500px" src="./profilePic.png">
+Sou professor de inglês, desenvolvedor em formação e apaixonado por aprender e ensinar. Atualmente estudo Análise e Desenvolvimento de Sistemas (formatura em 2025/2) e estou focado em desenvolvimento web com TypeScript, React, Next.js, NestJS e MySQL.
 
-- :earth_americas: Sou professor particular de inglês há quase 10 anos
+## 🛠️ Tecnologias que uso
 
-- :computer: Estudo programação desde o início de 2023
-  
-- :memo: Cursando bacharelado em Análise e Desenvolvimento de sistemas
-  
-- :musical_keyboard: fun fact #1: apaixonado por música e tocar piano
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
 
-- :film_projector: fun fact #2: Videomaker e editor de som em [Amar Infâncias](https://www.instagram.com/amarinfancias/)
-<p>&nbsp;</p>
+## 🧩 Projetos em Destaque
 
-<p><strong>Gosto bastante de usar:</strong></p>
+### 🎓 English Conversations
+Minha própria plataforma para aulas de inglês com conteúdo interativo, vídeos, exercícios e IA.
+- **Stack**: React, NestJS, MySQL, TailwindCSS
+- **Status**: Em desenvolvimento
+- 🔗 [Repositório](link) | [Demo (em breve)](link)
 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+### 📑 Sistema de contratos Amar
+GUI app que automatiza contratos para a empresa Amar Infâncias.
+- **Stack**: Python, Customtkinter, MySQL (SQLAlchemy), Alembic
+- **Status**: Concluído
+- 🔗 [Repositório](link)
 
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+### 🌐 Sites com WordPress que já fiz
+- [Escritório Recupera](https://escritoriorecupera.com/)
+- [Instituto ICV](http://institutoicv.com.br/)
 
-<p><strong>Tecnologias que tenho estudado:</strong><p>
+## 📚 Aprendizados Recentes
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-<br>
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+- ✅ Testes com Jest
+- ✅ Documentação de APIs com Swagger
+- 🚧 Next.js
+- 🚧 Docker para dev e deploy
+- 🚧 SEO com React e Next.js
+- 🚧 React Native
 
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-<br>
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+## 🌐 Conecte-se Comigo
 
-<p>&nbsp;</p>
-<p><strong>Contato:</strong></p>
-<a href="https://www.linkedin.com/in/andrew-pacheco-de-oliveira-33a88445/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-andrew-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/_andrew.code" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-_andrew.code-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andy-oliveira/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/andy-oliv)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_andrew.code/)
+
+
