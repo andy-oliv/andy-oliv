@@ -13,17 +13,18 @@ Sou professor de inglês, desenvolvedor em formação e apaixonado por aprender 
 
 ## 🧩 Projetos em Destaque
 
-### 🎓 English Conversations
-Minha própria plataforma para aulas de inglês com conteúdo interativo, vídeos, exercícios e IA.
-- **Stack**: React, NestJS, MySQL, TailwindCSS
-- **Status**: Em desenvolvimento
-- 🔗 [Repositório](link) | [Demo (em breve)](link)
+### 📈 Amar Dashboard
+Projeto fullstack de um painel administrativo para a empresa Amar Infâncias com diversas funcionalidades como: geração de contratos,
+registro de clientes, agenda de aulas de yoga e eventos, dashboard com informações financeiras.
+- **Stack**: NestJS, MySQL, Prisma, Swagger, JWT, React, TailwindCSS, Jest
+- **status**: API em desenvolvimento
+- 🔗 [Repositório](https://github.com/andy-oliv/amar-dashboard) | [Demo (em breve)]
 
 ### 📑 Sistema de contratos Amar
 GUI app que automatiza contratos para a empresa Amar Infâncias.
 - **Stack**: Python, Customtkinter, MySQL (SQLAlchemy), Alembic
 - **Status**: Concluído
-- 🔗 [Repositório](link)
+- 🔗 [Repositório](https://github.com/andy-oliv/AMAR_contractGUI)
 
 ### 🌐 Sites com WordPress que já fiz
 - [Escritório Recupera](https://escritoriorecupera.com/)
