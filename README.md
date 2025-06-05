@@ -1,15 +1,16 @@
 # 👋 Hey, eu sou o Andrew!
 
-Sou professor de inglês, desenvolvedor em formação e apaixonado por aprender e ensinar. Atualmente estudo Análise e Desenvolvimento de Sistemas (formatura em 2025/2) e estou focado em desenvolvimento web com TypeScript, React, Next.js, NestJS e MySQL.
+Sou professor de inglês, desenvolvedor em formação e apaixonado por aprender e ensinar. Atualmente estudo Análise e Desenvolvimento de Sistemas (formatura em 2025/2) e estou focado em desenvolvimento web.
 
 ## 🛠️ Tecnologias que uso
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
 
 ## 🧩 Projetos em Destaque
 
@@ -34,9 +35,9 @@ GUI app que automatiza contratos para a empresa Amar Infâncias.
 
 - ✅ Testes com Jest
 - ✅ Documentação de APIs com Swagger
-- 🚧 Next.js
+- 🚧 MongoDB
+- 🚧 APIs com GraphQL
 - 🚧 Docker para dev e deploy
-- 🚧 SEO com React e Next.js
 - 🚧 React Native
 
 ## 🌐 Conecte-se Comigo
