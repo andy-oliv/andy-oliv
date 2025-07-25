@@ -14,12 +14,11 @@ Sou professor de inglês, desenvolvedor em formação e apaixonado por aprender 
 
 ## 🧩 Projetos em Destaque
 
-### 📈 Amar Dashboard
-Projeto fullstack de um painel administrativo para a empresa Amar Infâncias com diversas funcionalidades como: geração de contratos,
-registro de clientes, agenda de aulas de yoga e eventos, dashboard com informações financeiras.
-- **Stack**: NestJS, MySQL, Prisma, Swagger, JWT, React, TailwindCSS, Jest
+### 📈 English Conversations
+Projeto fullstack de uma plataforma de ensino de inglês para estudantes brasileiros.
+- **Stack**: NestJS, MySQL, Prisma, Swagger, JWT, Angular, SASS, Jest
 - **status**: API em desenvolvimento
-- 🔗 [Repositório](https://github.com/andy-oliv/amar-dashboard) | [Demo (em breve)]
+- 🔗 [Repositório](https://github.com/andy-oliv/englishconversations) | [Demo (em breve)]
 
 ### 📑 Sistema de contratos Amar
 GUI app que automatiza contratos para a empresa Amar Infâncias.
@@ -27,18 +26,14 @@ GUI app que automatiza contratos para a empresa Amar Infâncias.
 - **Status**: Concluído
 - 🔗 [Repositório](https://github.com/andy-oliv/AMAR_contractGUI)
 
-### 🌐 Sites com WordPress que já fiz
-- [Escritório Recupera](https://escritoriorecupera.com/)
-- [Instituto ICV](http://institutoicv.com.br/)
-
 ## 📚 Aprendizados Recentes
 
-- ✅ Testes com Jest
+- ✅ Testes unitários com Jest
 - ✅ Documentação de APIs com Swagger
-- 🚧 MongoDB
-- 🚧 APIs com GraphQL
+- 🚧 Angular
+- 🚧 Zod
 - 🚧 Docker para dev e deploy
-- 🚧 React Native
+- 🚧 Github Actions
 
 ## 🌐 Conecte-se Comigo
 
