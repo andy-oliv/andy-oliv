@@ -1,41 +1,53 @@
-# 👋 Hey, eu sou o Andrew!
+# 👋 Hey, I'm Andrew!
 
-Sou professor de inglês, desenvolvedor em formação e apaixonado por aprender e ensinar. Atualmente estudo Análise e Desenvolvimento de Sistemas (formatura em 2025/2) e estou focado em desenvolvimento web.
+## 👨‍💻 About me
+- 🎓 English teacher turned web developer  
+- 🌍 Passionate about building educational tools and apps  
+- 🚀 Currently focused on **Typescript, React and NestJS**  
+- 🎹 Fun fact: I play the piano for over 10 years!
 
-## 🛠️ Tecnologias que uso
+## 🛠️ Technologies I use
 
+**Frontend:**  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
+
+**Backend & Database:**  
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+
+**Tools & Testing:**  
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
 
-## 🧩 Projetos em Destaque
+## 🧩 Project highlights
 
 ### 📈 English Conversations
-Projeto fullstack de uma plataforma de ensino de inglês para estudantes brasileiros.
-- **Stack**: NestJS, MySQL, Prisma, Swagger, JWT, Angular, SASS, Jest
-- **status**: API em desenvolvimento
-- 🔗 [Repositório](https://github.com/andy-oliv/englishconversations) | [Demo (em breve)]
+Fullstack English learning platform for brazilian students.
+- **Stack**: NestJS, MySQL, Prisma, Swagger, JWT, React, SASS, Jest
+- **status**: Frontend under development
+- **Roadmap**:  
+  - [x] Backend API  
+  - [x] Authentication  
+  - [ ] React frontend  
+  - [ ] Dockerized deployment 
+- 🔗 [Repository](https://github.com/andy-oliv/englishconversations) | [Demo (soon)]
 
-### 📑 Sistema de contratos Amar
-GUI app que automatiza contratos para a empresa Amar Infâncias.
-- **Stack**: Python, Customtkinter, MySQL (SQLAlchemy), Alembic
-- **Status**: Concluído
-- 🔗 [Repositório](https://github.com/andy-oliv/AMAR_contractGUI)
+## 📚 Current Learning Path
+- ✅ Unit testing with Jest  
+- ✅ Swagger API documentation  
+- ✅ Zustand
+- ✅ Zod 
 
-## 📚 Aprendizados Recentes
+- ## 🎯 Next Goals
+- 📱 Learn mobile dev with **React Native**  
+- 🐳 Docker
+- 🤖 Explore Machine Learning integration in education tools
 
-- ✅ Testes unitários com Jest
-- ✅ Documentação de APIs com Swagger
-- 🚧 Angular
-- 🚧 Zod
-- 🚧 Docker para dev e deploy
-- 🚧 Github Actions
-
-## 🌐 Conecte-se Comigo
+## 🌐 Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andy-oliveira/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/andy-oliv)
