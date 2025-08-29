@@ -28,7 +28,7 @@
 ### 📈 English Conversations
 Fullstack English learning platform for brazilian students.
 - **Stack**: NestJS, MySQL, Prisma, Swagger, JWT, React, SASS, Jest
-- **status**: Frontend under development
+- **Status**: Frontend under development
 - **Roadmap**:  
   - [x] Backend API  
   - [x] Authentication  
