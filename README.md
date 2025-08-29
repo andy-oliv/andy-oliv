@@ -42,7 +42,7 @@ Fullstack English learning platform for brazilian students.
 - ✅ Zustand
 - ✅ Zod 
 
-- ## 🎯 Next Goals
+## 🎯 Next Goals
 - 📱 Learn mobile dev with **React Native**  
 - 🐳 Docker
 - 🤖 Explore Machine Learning integration in education tools
